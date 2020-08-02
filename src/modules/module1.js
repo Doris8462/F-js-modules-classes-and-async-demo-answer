@@ -1,5 +1,5 @@
-console.log('被执行')
+console.log("被执行");
 
 export default {
-  a: 100
-}
+  a: 100,
+};

@@ -27,7 +27,6 @@
 // const { printName } = logger;
 // printName();
 
-
 // this指向问题bind解决
 // class Logger {
 //   constructor() {
